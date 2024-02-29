@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apiConfig>
+    <url>https://api.screenshotmachine.com</url>
+    <screenshotAPI>
+        <key>da7ff3</key>
+        <dimension>1920x1080</dimension>
+        <format>jpg</format>
+    </screenshotAPI>
+    <googleDrive>
+        <folderName>ScreenshotSaver</folderName>
+    </googleDrive>
+</apiConfig>
